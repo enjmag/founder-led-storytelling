@@ -11,6 +11,7 @@
   <a href="PLAYBOOK.md">Playbook</a> ·
   <a href="#-templates">Templates</a> ·
   <a href="#-sample-the-last-box">Sample</a> ·
+  <a href="showcase/adrian/">Showcase</a> ·
   <a href="LESSONS.md">Lessons</a> ·
   <a href="library/">Library</a>
 </p>
@@ -96,6 +97,17 @@ A fictional Singapore founder, Rachel Lim of Kakis Movers, kept the one box she 
 
 ---
 
+## ✦ Showcase: the real reels behind it
+
+<p align="center">
+  <a href="showcase/adrian/"><img src="assets/adrian-strip.jpg" alt="Adrian Tan reels, best hook per script" width="100%"></a>
+</p>
+
+Six finished founder reels from the campaign this playbook was built from, with the best of three hooks picked for each and the reason why.
+→ **[Watch the hook previews](showcase/adrian/)**
+
+---
+
 ## ✦ Library & tools
 
 | | |
@@ -127,6 +139,7 @@ A fictional Singapore founder, Rachel Lim of Kakis Movers, kept the one box she 
 ├── tools/estimate.py      credit & time estimator
 ├── logs/                  delivery log · hook scoreboard
 ├── samples/               The Last Box (script → frames)
+├── showcase/              real reels: best hook per script
 ├── examples/              Tahi Repair Co.
 ├── case-studies/          a real reel, traced
 └── agent-setup/           CLAUDE.md snippet

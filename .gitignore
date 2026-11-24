@@ -5,3 +5,4 @@
 __pycache__/
 agent-setup/*.backup
 projects/*/media/
+!showcase/**/*.mp4
