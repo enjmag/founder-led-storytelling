@@ -1,6 +1,6 @@
 # Sample · Kakis Movers, "The Last Box" (fictional)
 
-*This founder, company and story are invented as a practice sample.* Starting point: **finished script**, so all timings are **EST** at about 2.2 words/s. Length: about 85 s organic, about 97 s ad.
+*This founder, company and story are invented as a practice sample.* Starting point: **finished script**, so all timings are **EST** at about 2.2 words/s. Length: about 84 s organic, about 95 s ad. **Revision v2** (Enjo, 24 Nov): beat 2 now sets up the speed payoff, the CTA is softer, beat 1 and beat 3 are tighter, and the uncle's box appears in beat 5.
 
 ## 1 · Script
 
@@ -14,27 +14,27 @@
 **Bridge:** "Let me tell you where it started."
 
 **Body**
-- **Beat 1 · The Box:** Growing up, my family rented HDB flats. Every time the lease ended, we moved. Six times before I was twelve. Each move, my mum gave me one box. "Whatever fits, you keep." I wrote on it: *Rachel. Don't throw.*
-- **Beat 2 · The Business:** Today I run Kakis Movers. Forty trucks. We move fast. Steady lah.
-- **Beat 3 · The Uncle:** Last year, we moved an uncle out of his four-room flat. His wife had just passed. My guys were taping everything. Then he stood in front of one cupboard. "Don't touch that."
+- **Beat 1 · The Box:** Growing up, we rented HDB flats. Six moves before I was twelve. Each move, my mum gave me one box. "Whatever fits, you keep." I wrote on it: *Rachel. Don't throw.*
+- **Beat 2 · The Business:** Today I run Kakis Movers. My crew can empty a four-room flat in three hours. Speed is how we win. Steady lah.
+- **Beat 3 · The Uncle:** We moved an uncle out of his flat. His wife had just passed. My guys were taping everything. Then he stood in front of one cupboard. "Don't touch that."
 - **Beat 4 · The Turn:** I told the crew, stop. I put down the tape gun. And I sat on the floor with him, and we packed her things together. One hour. Truck waiting downstairs. Money burning.
 - **Beat 5 · The Echo:** Now every job we do ends with one last box. The owner packs it. We just carry it.
 
 **Organic close:** "Because when you move, you're not moving furniture. You're deciding what you get to keep."
-**Ad CTA:** "Moving soon? Book a free walk-through with us. We'll plan the whole move, and save your last box for you. Link's around this video."
+**Ad CTA:** "If you're moving soon, let us handle everything else. Your last box, you pack. We'll just carry it. Free walk-through, link's around this video."
 **Posting caption:** We moved 6 times before I was 12. Now every move we do ends the same way: one last box, packed by you. 📦
 
 ## 2 · Story brief
 
 | Field | Entry |
 |---|---|
-| **Founder** | Rachel Lim, 38, founder of Kakis Movers, Singapore (40 trucks). Warm and brisk, with a bit of humour. Keep "steady lah" and her clipped sentences |
+| **Founder** | Rachel Lim, 38, founder of Kakis Movers, Singapore. Warm and brisk, with a bit of humour. Keep "steady lah" and her clipped sentences |
 | **Audience** | HDB families and older owners downsizing or upgrading, who see movers as a stressful cost |
 | **Source material** | Real: the childhood box (she still has it), trucks, crew B-roll, office, Rachel on camera. Needs illustrating: the 1990s childhood moves and the uncle's flat |
-| **Story arc** | Childhood moves → the one-box rule → fast, cheap business → the uncle's cupboard → she stops the job → the "last box" ritual. **Resolved** |
-| **Turning point** | Rachel **puts the tape gun down on the floor** and sits beside the uncle at the open cupboard. The business choice (speed) gives way to the human one, and the waiting truck makes the cost visible |
-| **Visual anchor** | **The box marked "RACHEL — DON'T THROW."** Seen in the hook, packed as a child in beat 1, echoed by the uncle's box in beat 4 and by every client's box in beat 5 |
-| **Intended ending** | Organic: an owner's hands write their own name on a last box, then cut to Rachel's old box on her office shelf. Ad: the same, plus the CTA over a crew member handing the box to the owner |
+| **Story arc** | Childhood moves → the one-box rule → a business that wins on speed → the uncle's cupboard → she stops the job → the "last box" ritual. **Resolved** |
+| **Turning point** | Rachel **puts the tape gun down on the floor** and sits beside the uncle at the open cupboard. She breaks her own rule ("speed is how we win"), and the waiting truck makes the cost visible |
+| **Visual anchor** | **The box marked "RACHEL — DON'T THROW."** Seen in the hook, packed as a child in beat 1, echoed by the uncle's box in beat 4, which returns, packed and taped, in the beat 5 montage |
+| **Intended ending** | Organic: an owner's hands write their own name on a last box, then cut to Rachel's old box on her office shelf. Ad: stay on the owner's hands on their box under the CTA, with the logo and offer as small text only at the very end |
 | **Questions for Enjo** | 1. Should the uncle show his face, or only hands and his back? 2. Do we show the late wife in a photo, or keep her only as the cupboard? 3. Which hook leads the ad set? |
 
 ## 3 · Edit plan (EST)
@@ -45,16 +45,16 @@
 |---|---|---|---|---|---|
 | H1 | 0:00–0:09.5 hook | Rachel at her desk with the worn box on her lap. She taps the marker on the lid on "nine." Overlay on "six times" | **REAL** (film Rachel on a phone), or GEN lip sync (library #1) | Hard cut into the bridge | – |
 | BR | 0:09.5–0:13 "Let me tell you where it started." | She lifts the lid. Match cut into the past | REAL | Cardboard flap SFX (library) | – |
-| 1 | 0:13–0:23 "Growing up… six times before I was twelve." | Locked frame of the same HDB doorway, hard-cut 3 times: different gate colour, different family shoes, the same girl, a little older each time | GEN · CHAR-K, LOC-1 (library #5) | Hard cut on each "moved." Sound of a gate closing on each (library) | G1 |
-| 2 | 0:23–0:32 "Each move, my mum gave me one box… Don't throw." | Mum's hands hand over an empty box. Kid Rachel kneels and writes on it in marker. Insert of the **real** box lettering | GEN · CHAR-M (hands only), CHAR-K · PROP real photo insert | Marker squeak SFX (library, or MISSING) · soft music in | G1 |
-| 3 | 0:32–0:38 "Today I run Kakis Movers… Steady lah." | Fast montage: trucks leaving the depot, crew swinging a sofa, the tape gun ripping across boxes. Rachel gives a small nod to the camera on "steady lah" | **REAL** B-roll | Music picks up · cut to the beat · tape rip SFX | – |
-| 4 | 0:38–0:46 "Last year… His wife had just passed." | Uncle's flat, half-packed. A woman's slippers still by the door. The uncle stands in the hallway | GEN · CHAR-U, LOC-2 | Music drops to near silence on "passed" | G2 |
-| 5 | 0:46–0:54 "My guys were taping… 'Don't touch that.'" | Crew taping in the background. The uncle steps in front of a closed wooden cupboard, one hand flat on the door | GEN · CHAR-U, LOC-2 | Tape stops abruptly · 0.5 s of silence after "that" | G2 |
-| 6 | 0:54–1:06 "I told the crew, stop… packed her things together." | **Turning point:** Rachel raises a hand and the crew freezes. She **sets the tape gun on the floor**, sits beside the uncle, and they fold a cardigan together | GEN · CHAR-R, CHAR-U, LOC-2 | Tape gun clack (library) · music returns softly | G3 |
-| 7 | 1:06–1:10 "One hour. Truck waiting… Money burning." | Insert of the clock on the wall. Wide shot from outside the window: the truck idling below, a crew member checking his watch | GEN (or REAL truck B-roll) | Engine idle (library) | G3 |
-| 8 | 1:10–1:18 "Now every job… We just carry it." | Today, several homes in quick cuts: different owners writing their names on a box. A crew member carries it with both hands | **REAL** (stage it with real clients or staff) | Marker squeak · music lifts | – |
-| OC | 1:18–1:25 close | Rachel's office shelf: her childhood box. She glances at it and smiles | REAL | Music resolves | – |
-| CTA | 1:25–1:37 ad only | A crew member hands a box to the owner at the new flat's door. CTA overlay + link | REAL | Music bed | – |
+| 1 | 0:13–0:19 "Growing up, we rented HDB flats. Six moves before I was twelve." | Locked frame of the same HDB doorway, hard-cut 3 times: different gate colour, different family shoes, the same girl, a little older each time | GEN · CHAR-K, LOC-1 (library #5) | Hard cut on each "moved." Sound of a gate closing on each (library) | G1 |
+| 2 | 0:19–0:28 "Each move, my mum gave me one box… Don't throw." | Mum's hands hand over an empty box. Kid Rachel kneels and writes on it in marker. Insert of the **real** box lettering | GEN · CHAR-M (hands only), CHAR-K · PROP real photo insert | Marker squeak SFX (library, or MISSING) · soft music in | G1 |
+| 3 | 0:28–0:38 "Today I run Kakis Movers… Speed is how we win. Steady lah." | **Speed montage:** a crew empties a flat in hard cuts on the beat, a wall clock jumps forward, the truck doors slam. Rachel gives a small nod to the camera on "steady lah" | **REAL** B-roll (film a real job) | Music picks up · cuts on the beat · tape rip SFX. **This sets up the slow-down in rows 4–7** | – |
+| 4 | 0:38–0:44 "We moved an uncle out of his flat. His wife had just passed." | Uncle's flat, half-packed. A woman's slippers still by the door. The uncle stands in the hallway | GEN · CHAR-U, LOC-2 | Music drops to near silence on "passed" | G2 |
+| 5 | 0:44–0:52 "My guys were taping… 'Don't touch that.'" | Crew taping in the background. The uncle steps in front of a closed wooden cupboard, one hand flat on the door | GEN · CHAR-U, LOC-2 | Tape stops abruptly · 0.5 s of silence after "that" | G2 |
+| 6 | 0:52–1:04 "I told the crew, stop… packed her things together." | **Turning point:** Rachel raises a hand and the crew freezes. She **sets the tape gun on the floor**, sits beside the uncle, and they fold a cardigan together | GEN · CHAR-R, CHAR-U, LOC-2 | Tape gun clack (library) · music returns softly | G3 |
+| 7 | 1:04–1:08 "One hour. Truck waiting… Money burning." | Insert of the clock on the wall. Wide shot from outside the window: the truck idling below, a crew member checking his watch | GEN (or REAL truck B-roll) | Engine idle (library) | G3 |
+| 8 | 1:08–1:17 "Now every job… We just carry it." | Today, several homes in quick cuts: different owners writing their names on a box. **The uncle's box returns, packed and taped, with his handwriting on it.** A crew member carries it with both hands | **REAL** (stage it with real clients or staff) | Marker squeak · music lifts | – |
+| OC | 1:17–1:24 close | Rachel's office shelf: her childhood box. She glances at it and smiles | REAL | Music resolves | – |
+| CTA | 1:24–1:35 ad only | Hold on the owner's hands resting on their box at the new flat. Small logo and offer text only in the last 2 s | REAL | Music bed stays soft · no hard sell cut | – |
 
 **Slop risks:** marker text on the box (always use the **real** photo insert for the lettering) · crowd crew moves (keep them in the background) · a time-lapse clock (use a single insert instead) · grief over-acting (library #8: understated, no crying)
 **Estimate:** `python3 tools/estimate.py --gen-seconds 19 16 16 --risk high` gives about 890 credits at 7/s. Confirm the current rate.

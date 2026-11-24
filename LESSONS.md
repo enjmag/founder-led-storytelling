@@ -17,6 +17,9 @@ The playbook's memory. The agent adds entries at the end of every round. Enjo ap
 | 2026-10-05 | Adrian R2 | Move scenes from generic places to the founder's real location | STANDING? | Adrian R2 | Watching |
 | 2026-10-07 | Adrian R2 | Prefers one prompt per sequence over separate shot prompts | STANDING? (confirm) | Adrian R2 | Ask Enjo |
 | 2026-10-01 | Adrian R1 | Give light changes a motivation (start dim, then brighten) | STANDING? | Adrian R1, R6 | Propose |
+| 2026-11-24 | Kakis sample | Business-intro beats should set up a rule the turning point breaks ("speed is how we win" → "truck waiting"), not just sell | STANDING? | Kakis sample | Watching |
+| 2026-11-24 | Kakis sample | The ad CTA reuses a line from the story ("we'll just carry it") so the offer doesn't break the emotion | STANDING? | Kakis sample | Watching |
+| 2026-11-24 | Kakis sample | Pay off a side character's object in the ending montage (the uncle's box) | ONE-OFF | Kakis sample | – |
 
 ## Actuals (for the estimator)
 | Project | Est. credits | Actual credits | Est. hours | Actual hours | Note |
