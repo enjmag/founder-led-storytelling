@@ -1,6 +1,7 @@
-__pycache__/
-*.mp4
 *.mov
-*.wav
 *.mp3
+*.mp4
+*.wav
+__pycache__/
+agent-setup/*.backup
 projects/*/media/
