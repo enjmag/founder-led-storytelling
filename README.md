@@ -13,6 +13,7 @@ A production workflow for founder-led storytelling reels (9:16, VO-driven, 3 hoo
 | [logs/](logs/) | Delivery log and hook scoreboard (copy into each project) |
 | [LESSONS.md](LESSONS.md) | What the playbook has learned, and which rules are waiting for Enjo's approval |
 | [agent-setup/CLAUDE-snippet.md](agent-setup/CLAUDE-snippet.md) | Paste into the Editing Agent's CLAUDE.md so it uses this playbook automatically |
+| [samples/kakis-movers-last-box.md](samples/kakis-movers-last-box.md) | Full sample: Singapore founder script, brief, edit plan, prompts and keyframes |
 | [examples/tahi-repair-co.md](examples/tahi-repair-co.md) | Worked example with a fictional founder |
 | [case-studies/adrian-reel-2-trace.md](case-studies/adrian-reel-2-trace.md) | One real reel traced from script to delivery |
 

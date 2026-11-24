@@ -100,17 +100,16 @@ Keep both faces and outfits consistent.
 
 ## 5 · Sample keyframes
 
-These were generated with Higgsfield GPT Image 2.6 (9:16, 1k), about 0.75 credits each. The character sheets were made first and used as references for consistency. The images go in `samples/kakis-movers-frames/`.
+These were generated with Higgsfield GPT Image 2.6 (9:16, 1k), about 0.75 credits each. The three character sheets were made first and used as references, which keeps faces and outfits consistent across beats. Frames are concept stills for gate 2, not final footage.
 
-| File | Beat | Higgsfield job |
+| H1 · hook | Row 1 · doorway | Row 2 · the box | Row 5 · "Don't touch that." |
+|---|---|---|---|
+| ![](kakis-movers-frames/01-hook-box.png) | ![](kakis-movers-frames/02-doorway.png) | ![](kakis-movers-frames/03-marker.png) | ![](kakis-movers-frames/04-cupboard.png) |
+
+| Row 6 · **turning point** | Row 7 · truck waiting | Organic close |
 |---|---|---|
-| ref-rachel-adult.png | Character sheet: Rachel, 38 | cb9f879b |
-| ref-rachel-kid.png | Character sheet: Rachel, 9 | 5a1c4e8b |
-| ref-uncle.png | Character sheet: uncle | 1b937897 |
-| 01-hook-box.png | H1: Rachel with the box, to camera | 7abefe98 |
-| 02-doorway.png | Row 1: the 1990s HDB doorway | b9ebe159 |
-| 03-marker.png | Row 2: kid writes on the box | 9613b3be |
-| 04-cupboard.png | Row 5: "Don't touch that." | 6b2dcd81 |
-| 05-turning-point.png | Row 6: tape gun down, packing together | 2ef0d2bf |
-| 06-truck-waiting.png | Row 7: truck idling below | acf38a56 |
-| 07-close-shelf.png | Organic close: box on the shelf | 0c13ca23 |
+| ![](kakis-movers-frames/05-turning-point.png) | ![](kakis-movers-frames/06-truck-waiting.png) | ![](kakis-movers-frames/07-close-shelf.png) |
+
+**Character sheets:** [Rachel, 38](kakis-movers-frames/ref-rachel-adult.png) · [Rachel, 9](kakis-movers-frames/ref-rachel-kid.png) · [Uncle](kakis-movers-frames/ref-uncle.png)
+
+**Review notes (checked against the slop-risk list):** faces and outfits hold across the frames, and the tape gun reads clearly in the turning point. The close frame shows a real landmark skyline through the window. Swap it for a plain HDB view if the brand should feel heartland rather than CBD. No readable text or logos appeared.
