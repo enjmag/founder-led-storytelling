@@ -14,6 +14,6 @@ These are finished cuts from the real campaign the playbook was built from: six 
 | [![](reel6-poster.jpg)](reel6-hook-preview.mp4) **6 · I Had No One I Could Reach** | **H2 · The Terminator** | Comedy hook with the payoff on screen: the blue night, the crutches, one step at a time |
 
 ## Notes from the review
-- **The first frame shows an empty white caption box** on Reels 1, 6 (all hooks) and 3 (H1), because the overlay animates in. On IG the first frame is often the preview, so start the overlay already filled, or with the text in place from frame 0.
+- **The first frame shows an empty white caption box** on Reels 1 and 6 (all three hooks), because the overlay animates in. On IG the first frame is often the preview, so start the overlay already filled, or with the text in place from frame 0.
 - **The bridge cards** ("Let me tell you…", "Let me be honest…") type on over black for about 1 s. They work, but a frame of the next shot behind them would keep the energy up.
 - These picks are a **visual first-10-seconds judgement**. Once the hooks are posted, replace them with real numbers in [`logs/hook-scoreboard.csv`](../../logs/hook-scoreboard.csv).
