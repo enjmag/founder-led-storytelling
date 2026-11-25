@@ -13,4 +13,4 @@ python3 tools/estimate.py --gen-seconds <clip lengths> --hooks <hook lengths> --
 | Risk | **low**: static shots, one person · **medium**: people and actions · **high**: lip sync, comedy timing, hands, darkness, crowds |
 | Savings | Reuse body clips as hook cut-ins at no cost; generate the bridge once; use real B-roll wherever it exists |
 
-**Check against past work:** Reel 5 (high risk, 5 body clips + 3 hooks + bridge) comes out at about 1,900 credits and about 2.8 working days in this estimator. You've said a 60 s reel takes 1–2 days at about 5 h/day when the edit is quicker, and that 4,000+ credits a month covers normal demand. Once there are real numbers, adjust the time constants in `tools/estimate.py` using the actuals in `LESSONS.md`.
+**Check against past work:** Reel 5 (high risk, 5 body clips + 3 hooks + bridge) comes out at about 1,900 credits and about **1.7 days of hands-on work**. That matches Enjo's real 1–2 days at about 5 h/day. **Higgsfield generation and queue time comes on top and varies**, so add it once the jobs are submitted. Recalibrate with the actuals in `LESSONS.md`.

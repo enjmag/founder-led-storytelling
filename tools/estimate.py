@@ -38,15 +38,16 @@ def main():
     total = base + retries + upres
 
     shots = len(clips)
-    plan_h = 2 + 0.25 * shots          # brief, timing map, edit plan, prompts
-    gen_h = 0.2 * shots * (1 + RETRY[a.risk])  # generating and reviewing
-    edit_h = a.edit_hours_per_variant * a.variants + 2  # assembly, subtitles, sound
+    plan_h = 1 + 0.15 * shots          # brief, timing map, edit plan, prompts
+    gen_h = 0.1 * shots * (1 + RETRY[a.risk])  # reviewing picks (queue time is extra, see below)
+    edit_h = a.edit_hours_per_variant * a.variants + 1  # assembly, subtitles, sound
     hours = plan_h + gen_h + edit_h
 
     print(f"Generated seconds: {secs:.0f} s across {shots} clips")
     print(f"Credits: base {base:.0f} + retries {retries:.0f} ({a.risk}) + upres {upres:.0f} = ~{total:.0f}")
-    print(f"Time: plan {plan_h:.1f} h + generate/review {gen_h:.1f} h + edit {edit_h:.1f} h = ~{hours:.1f} h"
+    print(f"Hands-on time: plan {plan_h:.1f} h + review {gen_h:.1f} h + edit {edit_h:.1f} h = ~{hours:.1f} h"
           f" (~{hours/5:.1f} working days at 5 h/day)")
+    print("Plus Higgsfield generation/queue time, which varies: add it once the generations are submitted.")
     print("These are ESTIMATES. Log the actuals in LESSONS.md so the numbers improve over time.")
 
 

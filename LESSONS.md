@@ -20,6 +20,7 @@ The playbook's memory. The agent adds entries at the end of every round. Enjo ap
 | 2026-11-24 | Kakis sample | Business-intro beats should set up a rule the turning point breaks ("speed is how we win" → "truck waiting"), not just sell | STANDING? | Kakis sample | Watching |
 | 2026-11-24 | Kakis sample | The ad CTA reuses a line from the story ("we'll just carry it") so the offer doesn't break the emotion | STANDING? | Kakis sample | Watching |
 | 2026-11-24 | Kakis sample | Pay off a side character's object in the ending montage (the uncle's box) | ONE-OFF | Kakis sample | – |
+| 2026-11-25 | Estimator | Time estimate was too high (2.8 days). Real hands-on time is 1–2 days; Higgsfield generation time is separate and added later | STANDING | Enjo note | PROMOTED (estimator recalibrated) |
 
 ## Actuals (for the estimator)
 | Project | Est. credits | Actual credits | Est. hours | Actual hours | Note |
