@@ -13,4 +13,4 @@ python3 tools/estimate.py --gen-seconds <clip lengths> --hooks <hook lengths> --
 | Risk | **low**: static shots, one person · **medium**: people and actions · **high**: lip sync, comedy timing, hands, darkness, crowds |
 | Savings | Reuse body clips as hook cut-ins at no cost; generate the bridge once; use real B-roll wherever it exists |
 
-**Check against past work:** Reel 5 (high risk, 5 body clips + 3 hooks + bridge) comes out at about 1,900 credits and about **1.7 days of hands-on work**. That matches Enjo's real 1–2 days at about 5 h/day. **Higgsfield generation and queue time comes on top and varies**, so add it once the jobs are submitted. Recalibrate with the actuals in `LESSONS.md`.
+**Check against past work:** Reel 5 (high risk, 5 body clips + 3 hooks + bridge) comes out at about 1,900 credits and **about 4.5 hours of hands-on work**. Before the agent, a reel took 1–2 days; with the agent the target is **3–5 hours of sitting time**. **Higgsfield generation time comes on top and varies.** Log it per job in `LESSONS.md` (Actuals table) so the estimator can use real averages.

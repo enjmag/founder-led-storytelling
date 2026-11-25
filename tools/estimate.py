@@ -25,7 +25,7 @@ def main():
                    help="low = static, few people; medium = people + actions; high = lip sync, comedy, hands, darkness")
     p.add_argument("--final-upres", type=float, default=0.0,
                    help="extra multiplier if picks are regenerated at a higher resolution (e.g. 1.0)")
-    p.add_argument("--edit-hours-per-variant", type=float, default=0.5,
+    p.add_argument("--edit-hours-per-variant", type=float, default=0.25,
                    help="assembly + polish per finished export")
     p.add_argument("--variants", type=int, default=6, help="exports, e.g. 3 hooks x (organic + ad) = 6")
     a = p.parse_args()
@@ -38,16 +38,16 @@ def main():
     total = base + retries + upres
 
     shots = len(clips)
-    plan_h = 1 + 0.15 * shots          # brief, timing map, edit plan, prompts
-    gen_h = 0.1 * shots * (1 + RETRY[a.risk])  # reviewing picks (queue time is extra, see below)
-    edit_h = a.edit_hours_per_variant * a.variants + 1  # assembly, subtitles, sound
+    plan_h = 0.5 + 0.1 * shots          # brief, timing map, edit plan, prompts
+    gen_h = 0.05 * shots * (1 + RETRY[a.risk])  # reviewing picks (queue time is extra, see below)
+    edit_h = a.edit_hours_per_variant * a.variants + 0.5  # assembly, subtitles, sound
     hours = plan_h + gen_h + edit_h
 
     print(f"Generated seconds: {secs:.0f} s across {shots} clips")
     print(f"Credits: base {base:.0f} + retries {retries:.0f} ({a.risk}) + upres {upres:.0f} = ~{total:.0f}")
     print(f"Hands-on time: plan {plan_h:.1f} h + review {gen_h:.1f} h + edit {edit_h:.1f} h = ~{hours:.1f} h"
-          f" (~{hours/5:.1f} working days at 5 h/day)")
-    print("Plus Higgsfield generation/queue time, which varies: add it once the generations are submitted.")
+          f" (target with the agent: 3-5 h per reel)")
+    print("Plus Higgsfield generation/queue time: varies, logged per job in LESSONS.md and averaged here once there is data.")
     print("These are ESTIMATES. Log the actuals in LESSONS.md so the numbers improve over time.")
 
 
